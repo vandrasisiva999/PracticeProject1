@@ -13,7 +13,7 @@ public class Test_Program1 {
 		
 		System.out.println("Hello World");
 		//System.setProperty("webdriver.chrome.driver", "C:\\Users\\NEW\\eclipse-workspace\\T2Maven\\src\\test\\resources\\chromedriver.exe");
-		System.setProperty("webdriver.gecko.driver", "C:\\Users\\NEW\\eclipse-workspace\\T2Maven\\src\\test\\resources\\geckodriver.exe");
+		System.setProperty("webdriver.gecko.driver", "D:\\Users\\NEW\\eclipse-workspace\\T2Maven\\src\\test\\resources\\geckodriver.exe");
 		//WebDriver wd = new ChromeDriver();
 		WebDriver wd = new FirefoxDriver();
 		wd.get("https://www.google.com");
@@ -27,7 +27,7 @@ public class Test_Program1 {
 		
 		System.out.println("Hello World");
 		//System.setProperty("webdriver.chrome.driver", "C:\\Users\\NEW\\eclipse-workspace\\T2Maven\\src\\test\\resources\\chromedriver.exe");
-		System.setProperty("webdriver.gecko.driver", "C:\\Users\\NEW\\eclipse-workspace\\T2Maven\\src\\test\\resources\\geckodriver.exe");
+		System.setProperty("webdriver.gecko.driver", "D:\\Users\\NEW\\eclipse-workspace\\T2Maven\\src\\test\\resources\\geckodriver.exe");
 		//WebDriver wd = new ChromeDriver();
 		WebDriver wd = new FirefoxDriver();
 		wd.get("https://www.google.com");
